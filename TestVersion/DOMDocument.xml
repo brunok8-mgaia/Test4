@@ -1,0 +1,31 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+     <symbols>
+          <Include href="ScreenMenu.xml" itemID="4ffdc75a-00000011" lastModified="1342031706"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="999" publishTime="1342032151"/>
+          <PublishItem publishSize="1021" publishTime="1342032093"/>
+          <PublishItem publishSize="1019" publishTime="1342031834"/>
+          <PublishItem publishSize="989" publishTime="1342031804"/>
+          <PublishItem publishSize="1009" publishTime="1342031779"/>
+          <PublishItem publishSize="1015" publishTime="1342031771"/>
+          <PublishItem publishSize="984" publishTime="1342031757"/>
+          <PublishItem publishSize="983" publishTime="1342031752"/>
+          <PublishItem publishSize="1014" publishTime="1342031732"/>
+          <PublishItem publishSize="620" publishTime="1342031718"/>
+     </publishHistory>
+</DOMDocument>
