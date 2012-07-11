@@ -17,6 +17,8 @@ package Classes
 			screenMenu.x = 550 / 2;
 			screenMenu.y = 400 / 2;
 			addChild(screenMenu);
+			
+			trace("Isso é um teste maroto!");
 		}
 		
 	}
